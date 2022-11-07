@@ -87,6 +87,12 @@
 
 ### 🌔 레벨 4 - 팀 프로젝트 + 웹 프로그래밍 심화
 
+- 과정목표
+	- 프론트엔드 성능을 측정, 분석하고 개선해본다.
+	- 성능 개선과 관련된 네트워크 키워드, 브라우저 렌더링 과정에 대한 이해도를 높인다.
+	- TypeScript를 깊이있게 이해하고 다뤄본다.
+	- 웹접근성 시나리오에 따라 적절한 속성을 추가할 수 있는 역량을 향상해본다. 
+
 - 글쓰기
   - [Life of Pixel](https://develoger.kr/frontend/life-of-pixel/)
   - [jwt 적용기](https://develoger.kr/frontend/jwt-%ec%a0%81%ec%9a%a9%ea%b8%b0/)
