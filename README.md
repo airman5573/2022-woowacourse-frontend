@@ -89,7 +89,11 @@
 
 - 글쓰기
   - [Life of Pixel](https://develoger.kr/frontend/life-of-pixel/)
-
+  - [jwt 적용기](https://develoger.kr/frontend/jwt-%ec%a0%81%ec%9a%a9%ea%b8%b0/)
+  - [컴포넌트 여행기(0) – Intro](https://develoger.kr/frontend/consideration-of-components-0/)
+  - [컴포넌트 여행기(1) – 컴포넌트 분리하기](https://develoger.kr/frontend/consideration-of-components-1/)
+  - [컴포넌트 여행기(2) – jsx 가독성 높이기](https://develoger.kr/frontend/consideration-of-components-2/)
+  - [After ES2015 (1)](https://develoger.kr/frontend/after-es2015/)
 <br/>
 
 ### 🌕 레벨 5 - 보충 학습, 취업 준비
