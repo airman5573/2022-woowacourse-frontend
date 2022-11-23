@@ -73,7 +73,7 @@
 
 [모아모아 사이트](https://moamoa.space/) / [모아모아 깃헙](https://github.com/woowacourse-teams/2022-moamoa)
 
-<img width="1134" alt="sc_ 183" src="https://user-images.githubusercontent.com/68623798/200238342-0d2a0f25-9e3c-4189-be15-7347516761df.png">
+<img width="1173" alt="sc_ 120" src="https://user-images.githubusercontent.com/68623798/203473659-be8f4e7e-a914-4f75-accc-a2ac5cfe9470.png">
 
 [@tco0427](https://github.com/tco0427), [@nan-noo](https://github.com/nan-noo), [@jaejae-yoo](https://github.com/jaejae-yoo), [@wilgur513](https://github.com/wilgur513), [@sc0116](https://github.com/sc0116), [@airman5573](https://github.com/airman5573)이 팀을 이루어 스터디 아카이브 서비스인 모아모아를 론칭했습니다.    
 
