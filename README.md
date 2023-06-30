@@ -107,6 +107,3 @@
   - [컴포넌트 여행기(2) – jsx 가독성 높이기](https://develoger.kr/frontend/consideration-of-components-2/)
   - [After ES2015 (1)](https://develoger.kr/frontend/after-es2015/)
 <br/>
-
-### 🌕 레벨 5 - 보충 학습, 취업 준비
-진행중 :D
